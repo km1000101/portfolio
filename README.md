@@ -2,15 +2,12 @@
 
 Welcome to my portfolio repository! This project showcases my work, skills, and experience through a responsive and visually appealing design.
 
-**[Visit My Portfolio Website]([https://your-portfolio-url.com](https://km1000101.github.io/portfolio/)**
+**Visit My Portfolio Website [https://your-portfolio-url.com](https://km1000101.github.io/portfolio/)**
 
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Setup and Installation](#setup-and-installation)
-- [Screenshots](#screenshots)
-- [Contact](#contact)
 
 ## Overview
 
